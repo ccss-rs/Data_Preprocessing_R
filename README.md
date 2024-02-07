@@ -5,5 +5,5 @@ https://cran.r-project.org/bin/windows/base/
 R for Mac:  
 https://cran.r-project.org/bin/macosx/
 
-Downlaod and install RStudio:  
+Download and install RStudio:  
 https://posit.co/download/rstudio-desktop/
